@@ -1,7 +1,6 @@
 {
-  "name": "Node-FSAPI",
+  "name": "node-fsapi",
   "version": "0.1.2",
-  "private": true,
   "description": "A RESTful FileSystem API for NodeJS ",
   "dependencies": {
     "fs-extra": "~0.6.X",
@@ -10,12 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Fluidbyte/Node-FSAPI.git"
+    "url": "git://github.com/ve9u/node-fsapi.git"
   },
   "bugs": {
-    "url": "https://github.com/Fluidbyte/Node-FSAPI/issues"
+    "url": "https://github.com/ve9u/node-fsapi/issues"
   },
   "author": "Kent Safranski <kent@fluidbyte.net> (http://fluidbyte.net)",
+  "maintainers": ["Venu Gangireddy <venu.gangireddy@gmail.com> (http://ve9u.me)"],
   "license": "MIT",
   "readmeFilename": "README.md"
 }

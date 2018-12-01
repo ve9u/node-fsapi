@@ -1,5 +1,7 @@
 # Node FileSystem API
 
+
+
 Node-FSAPI provides a RESTful (CRUD) server for interacting with remote file systems. It relies on
 GET (Read), POST (Create), PUT (Update), and DELETE (Delete) commands with a plain-language syntax.
 
@@ -253,3 +255,10 @@ For a sucessful response this method will return boolean `true`, or in cases suc
 data from the response.
 
 On error or failure, the response from `.validate()` will be boolean `false`.
+
+### Credits
+
+**Author**: [Kent Safranski](kent@fluidbyte.net)
+**Maintainers**: 
+    1. [Venu Gangireddy](venu.gangireddy@gmail.com)1. Author: "Kent Safranski <kent@fluidbyte.net> (http://fluidbyte.net)"
+2. Maintainers: 1. "Venu Gangireddy <venu.gangireddy@gmail.com> (http://ve9u.me)"
