@@ -260,5 +260,4 @@ On error or failure, the response from `.validate()` will be boolean `false`.
 
 **Author**: [Kent Safranski](kent@fluidbyte.net)
 **Maintainers**: 
-    1. [Venu Gangireddy](venu.gangireddy@gmail.com)1. Author: "Kent Safranski <kent@fluidbyte.net> (http://fluidbyte.net)"
-2. Maintainers: 1. "Venu Gangireddy <venu.gangireddy@gmail.com> (http://ve9u.me)"
+    1. [Venu Gangireddy](venu.gangireddy@gmail.com)
