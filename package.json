@@ -1,11 +1,11 @@
 {
   "name": "node-fsapi",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "A RESTful FileSystem API for NodeJS ",
   "dependencies": {
     "fs-extra": "~0.6.X",
     "md5-file": "^3.1.1",
-    "restify": "~2.X.X"
+    "restify": "~4.3.X"
   },
   "repository": {
     "type": "git",
