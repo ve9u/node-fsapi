@@ -258,6 +258,6 @@ On error or failure, the response from `.validate()` will be boolean `false`.
 
 ### Credits
 
-**Author**: [Kent Safranski](kent@fluidbyte.net)
-**Maintainers**: 
+- **Author**: [Kent Safranski](kent@fluidbyte.net)
+- **Maintainers**: 
     1. [Venu Gangireddy](venu.gangireddy@gmail.com)
